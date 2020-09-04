@@ -16,7 +16,7 @@
     "iconv": "^2.2.0",
     "jade": "~1.11.0",
     "lodash": "^4.11.2",
-    "mongodb": "^2.1.18",
+    "mongodb": "^3.6.1",
     "morgan": "~1.6.1",
     "request": "^2.72.0",
     "serve-favicon": "~2.3.0"
